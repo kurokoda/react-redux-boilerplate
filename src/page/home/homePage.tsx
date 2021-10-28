@@ -1,6 +1,6 @@
-import "./homePage.css";
+import './homePage.css';
 
-import { Counter } from "../../component";
+import { Counter } from '../../component';
 
 function HomePage() {
   return (
